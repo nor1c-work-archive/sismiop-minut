@@ -104,7 +104,8 @@ $limitmax = $limitmin+$rows_per_page;
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>SISMIOP PBB | PEMKAB. MINAHASA</title>
+    <title>SISMIOP PBB | PEMKAB. MINAHASA UTARA</title>
+    <link rel="icon" type="image/x-icon" href="../images/minahasa-logo.png">
 
     <link href="../../bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
 

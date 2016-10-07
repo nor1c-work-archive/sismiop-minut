@@ -9,7 +9,8 @@ if ($_SESSION['ROLE']=="LOKET" || $_SESSION['ROLE']=="PEMBATALAN") {header("Loca
     <meta name="description" content="">
     <meta name="author" content="">
     <meta name="google-site-verification" content="CS45wfh6oardKP7lrA6Psx1zBs3JjZmsUbW3g9TGrF8" />
-    <title>SISMIOP PBB | PEMKAB. MINAHASA</title>
+    <title>SISMIOP PBB | PEMKAB. MINAHASA UTARA</title>
+    <link rel="icon" type="image/x-icon" href="images/minahasa-logo.png">
     <link href="../bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="../bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
     <link href="../dist/css/timeline.css" rel="stylesheet">
@@ -29,7 +30,7 @@ if ($_SESSION['ROLE']=="LOKET" || $_SESSION['ROLE']=="PEMBATALAN") {header("Loca
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="../"><img src="./images/minahasa-logo.png" width="30px" style="float:left;margin-top:-5px;"> &nbsp;&nbsp;Sistem Informasi Manajemen Pajak Bumi dan Bangunan Minahasa</a>
+                        <a class="navbar-brand" href="../"><img src="./images/minahasa-logo.png" width="30px" style="float:left;margin-top:-5px;"> &nbsp;&nbsp;Sistem Informasi Manajemen Pajak Bumi dan Bangunan Minahasa Utara</a>
                     </div>
                     <ul class="nav navbar-top-links navbar-right">
                               <li>

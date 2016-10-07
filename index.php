@@ -12,7 +12,8 @@ if (isset($_SESSION['NM_LOGIN'])) {
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>SISMIOP PBB | PEMKAB. MINAHASA</title>
+    <title>SISMIOP PBB | PEMKAB. MINAHASA UTARA</title>
+    <link rel="icon" type="image/x-icon" href="pages/images/minahasa-logo.png">
     <link href="./bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="./bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
     <link href="./dist/css/sb-admin-2.css" rel="stylesheet">
@@ -27,7 +28,7 @@ if (isset($_SESSION['NM_LOGIN'])) {
             <br>
                 <div class="login-panel panel panel-default" style="box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);">
                     <div class="panel-heading">
-                        <h3 class="panel-title"><center>SISTEM INFORMASI MANAJEMEN PAJAK BUMI DAN BANGUNAN<br>PEMKAB. MINAHASA</h3></center>
+                        <h3 class="panel-title"><center>SISTEM INFORMASI MANAJEMEN PAJAK BUMI DAN BANGUNAN<br>PEMKAB. MINAHASA UTARA</h3></center>
                     </div>
                     <div class="panel-body">
                         <form role="form" method="post" action="index.php">

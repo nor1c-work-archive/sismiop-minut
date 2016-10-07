@@ -49,7 +49,8 @@ if ($_SESSION['ROLE']=="ADMINISTRATOR") {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>SISMIOP PBB | PEMKAB. MINAHASA</title>
+    <title>SISMIOP PBB | PEMKAB. MINAHASA UTARA</title>
+    <link rel="icon" type="image/x-icon" href="../images/minahasa-logo.png">
     <link href="../../bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="../../bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
     <link href="../../bower_components/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.css" rel="stylesheet">

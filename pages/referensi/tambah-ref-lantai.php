@@ -35,8 +35,8 @@ if ($_SESSION['ROLE']=="ADMINISTRATOR") {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-
-    <title>SISMIOP PBB | PEMKAB. MINAHASA</title>
+    <title>SISMIOP PBB | PEMKAB. MINAHASA UTARA</title>
+    <link rel="icon" type="image/x-icon" href="../images/minahasa-logo.png">
 
     <!-- Bootstrap Core CSS -->
     <link href="../../bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
